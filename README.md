@@ -1,0 +1,2 @@
+# MayaOutliner
+Maya Qt Outliner
